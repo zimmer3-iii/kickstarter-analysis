@@ -18,7 +18,7 @@
 	All data, charts, and graphs can be found in the Kickstarter_Challenge Excel workbook.
 
 ### Analysis of Outcomes Based on Launch Date
-
+![alt text](https://raw.githubusercontent.com/zimmer3-iii/kickstarter-analysis/5104d07f73c0b702ca7c170c16203879ce2249cd/Resources/Theater_Outcomes_vs_Launch.png)
 
 	The Theater outcomes based on launch date, categorizes kickstarters into three types of outcomes:
 		1.) Successful

@@ -18,6 +18,8 @@
 	All data, charts, and graphs can be found in the Kickstarter_Challenge Excel workbook.
 
 ### Analysis of Outcomes Based on Launch Date
+
+
 	The Theater outcomes based on launch date, categorizes kickstarters into three types of outcomes:
 		1.) Successful
 		2.) Failed
@@ -48,6 +50,8 @@
 				
 
 ### Analysis of Outcomes Based on Goals
+![alt text](https://raw.githubusercontent.com/zimmer3-iii/kickstarter-analysis/5104d07f73c0b702ca7c170c16203879ce2249cd/Resources/Outcomes_vs_Goals.png)
+
 	The Plays Outcomes based on goals, shows the percentage of successful, failed, and canceled kickstarters based on what the kickstarter's fundraising goal was.
 		The goal categories were separated by roughly $5000 increments. 
 	Note: any Live kickstarters were ignored, but the data is still available in the KickStarter sheet in the Kickstarter_Challenge Excel workbook.
